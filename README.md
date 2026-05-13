@@ -12,6 +12,10 @@ This repository is a **SHOWCASE VERSION ONLY**.
 
 ---
 
+## Live Demo
+
+🌐 https://octoberoutlets.com
+
 ## Screenshots
 
 ### Homepage - Hero Section
@@ -140,4 +144,3 @@ resources/
 routes/
 └── web.php
 ```
----
